@@ -16,10 +16,74 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<title>bio data</title>
+<style type="text/css">
+body
+{
+color: lightslateblue;
+text-align: center;
+}
+h1
+{
+color:gray;
+background-color:pink;
+}
+hr
+{
+background-color: yellowgreen;
+height: 5px;
+}
+p
+{
+text-align: justify;
+border-style: dashed;
+border-width: 4px;
+border-color: purple;
+}
+</style>
+</head>
+<body>
+<h1>BIO DATA</h1>
+<hr>
+<p>
+Name : M PRAGYA GUPTA
+<br>
+<br>
+Father name : M SOBHAN GUPTA
+<br>
+<br>
+Mother name : M DIVYASREE
+<br>
+<br>
+Reference Number: 212223250013
+<br>
+<br>
+Department: AGRICULTURE ENGINEERING
+<br>
+<br>
+Year: I YEAR
+<br>
+<br>
+Skills : Batminton, Drawing, C programing
+<br>
+<br>
+Hobbies: READING, LISTENING MUSIC, DRAWING
+<br>
+<br>
+Mobile Number: 1234567890
+<br>
+<br>
+E-Mail ID: PRAGYAGM18@GMAIL.COM
+</p>
+</body>
+</html>
+```
 
 ## OUTPUT
-
+![alt text](<Screenshot (820).png>)
 
 ## RESULT
   Bio-data with appropriate CSS styles and properties is created successfully.
